@@ -7,3 +7,5 @@ Some text here
 ---
 
 D MONEYYYYY
+
+Allowed Workflow Actions
