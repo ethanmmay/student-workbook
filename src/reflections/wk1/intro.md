@@ -13,3 +13,5 @@ Allowed Workflow Actions
 Set Password
 
 Corrected Config Username
+
+Corrected Deploy Key
