@@ -1,4 +1,6 @@
-## Introduction & Environment Set-up
+## Day 1
+
+### Introduction & Environment Set-up
 
 Some text here
 
