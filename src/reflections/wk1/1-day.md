@@ -11,4 +11,4 @@ Using VSC, Git and specialized CodeWorks tools, we have a testing environment se
 
 3. GitHub is where you can view your code and other's with Graphical User Interfaces and even create profiles in a Social Media fashion. Git is the specialized part of GitHub that manages version control and it's conflicts and changes.
 
-Project Link: https://github.com/ethanmmay/day-1
+Link to Project: https://github.com/ethanmmay/day-1

@@ -1,5 +1,7 @@
 ## Day 4
 
+### Wire-framing & Planning
+
 Starting the day off with learning about CSS Grids, we moved onto basic web design principles using a site called Figma to prototype the design for websites.
 During Lab, we (George Condit and I) worked on our clone of the Den of Geek webpage. We finished the basic areas of the website but still need to style everything.
 
@@ -9,4 +11,4 @@ During Lab, we (George Condit and I) worked on our clone of the Den of Geek webp
 
 3. Yes, because they have the potential to save you from wasting a lot of Time, Energy and Effort down the line. Spending time tinkering with Design mid-development on a tight deadline is dangerous.
 
-https://ethanmmay.github.io/den-of-geek-clone/
+Link to Project: https://ethanmmay.github.io/den-of-geek-clone/
