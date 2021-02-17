@@ -26,7 +26,7 @@ let property = 'name'
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+  Single Responsibility. It means that a function or class has one responsibility and does not provide the entire project's functionality.
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
