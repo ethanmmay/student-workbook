@@ -8,6 +8,6 @@ In the morning, we got into groups of 4-5 to solve some mind-bending situational
 
 2. Asking a mentor, breaking the problem down into smaller parts, googling well-defined problems or searching for built-in methods can help you to fail fast, and learn faster to get past roadblocks and keep your momentum as a developer.
 
-3. 
+3. Plan well, code well. If you ever find yourself off track and struggling, it's a sign that you didn't plan enough, and you should take a step back and plan where you will go from where you currently are.
 
 Link to Project: https://afoster44.github.io/slapgame/
