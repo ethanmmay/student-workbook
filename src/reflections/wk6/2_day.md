@@ -10,4 +10,4 @@ Starting the day off with the most difficult Morning Challenge yet, we started w
 
 3. Props can be used or accessed in the script.
 
-Link to Project: https://github.com/ethanmmay/
+Link to Project: https://github.com/ethanmmay/vue-apod/
