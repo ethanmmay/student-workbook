@@ -10,18 +10,22 @@ module.exports = config({
   base: "/blog/",
   title: 'Codeworks Student Learning Blog',
   description: "My thoughts notes and reflections while attending Codeworks Immersive FullStack Program",
-  head: [
-    ['meta', { name: 'theme-color', content: '#3093d9' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['meta', { name: 'application-name', content: `${GITHUB_USERNAME} Learning Blog` }],
-    ['meta', { name: 'ROBOTS', content: 'FOLLOW' }],
-    ['meta', { name: 'og:image', content: 'https://bcw.blob.core.windows.net/public/img/8600856373152463' }],
-    ['meta', { name: 'og:type', content: 'article' }],
-    ['meta', { name: 'og:url', content: `https://${GITHUB_USERNAME}.github.io/blog` }],
-    ['meta', { name: 'og:title', content: 'Learn to Code. Develop Your Future' }],
-    ['meta', { name: 'og:locale', content: 'en_US' }]
-  ],
+  sidebar: {
+      '/reflections/': [
+        ...getSideBar('reflections', 'Student Reflections'),
+        ...getSideBar('reflections/wk1', 'Building Blocks of Web Development'),
+        ...getSideBar('reflections/wk2', 'Intro to Js'),
+        ...getSideBar('reflections/wk3', 'Advancing with JS'),
+        ...getSideBar('reflections/wk4', 'Asynchronous Code'),
+        ...getSideBar('reflections/wk5', 'Servers with Node/Express'),
+        ...getSideBar('reflections/wk6', 'Frontend Frameworks with Vue3'),
+        ...getSideBar('reflections/wk7', 'Pair Programming'),
+        ...getSideBar('reflections/wk8', 'Working in a Professional Environment'),
+        ...getSideBar('reflections/wk9', 'Working in a Professional Environment 2'),
+        ...getSideBar('reflections/wk10', 'Foundations of C#'),
+        ...getSideBar('reflections/wk11', 'Dotnet WebApi\'s')
+      ]
+    },
   themeConfig: {
     logo: 'https://bcw.blob.core.windows.net/public/img/2900578872732848',
     editLinks: true,
