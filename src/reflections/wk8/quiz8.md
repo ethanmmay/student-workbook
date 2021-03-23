@@ -3,7 +3,7 @@
 **1.** What is the package.json file used for?
 <!-- enter you answer in the space below -->
 ```
-
+    Scripts, Template Documentation or General Information about the project/workspace.
 ``` 
 **2.** At what level of your project do you need package.json when deploying your application? Why?
 <!-- enter you answer in the space below -->
