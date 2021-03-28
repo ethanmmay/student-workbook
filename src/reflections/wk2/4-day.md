@@ -6,7 +6,7 @@ In the morning, we got into groups of 4-5 to solve some mind-bending situational
 
 #### 1. What are the benefits of making a plan before starting to just write the code? 
 
-```If you lose where you are in your thought process, you will save a lot of time by referring back to your plan or outline to know what to do next. Sometimes the human memory can be a bottleneck for agile development and using tools to remedy that can help boost effiency ethically.```
+```If you lose where you are in your thought process, you will save a lot of time by referring back to your plan or outline to know what to do next. Sometimes the human memory can be a bottleneck for agile development and using tools to remedy that can help boost efficiency ethically.```
 
 #### 2. How do you find answers when you are stuck?
 
