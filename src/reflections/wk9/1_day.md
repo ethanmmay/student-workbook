@@ -6,20 +6,14 @@ Starting another week remotely, I decided it was time to overhaul the front-page
 
 #### 1. What technologies and principles are you using in your project?
 
-```
-    Vanilla JS, Vue.js, Node.js, Figma, MongoDB and Auth0 are the technologies we used to create our project. As for principles, we used paper prototyping. We also used observer pattern in components and Sockets. MVC, OOP, SOLID, CRUD, RESTful, are just a few acronym principles we used.
-```
+```Vanilla JS, Vue.js, Node.js, Figma, MongoDB and Auth0 are the technologies we used to create our project. As for principles, we used paper prototyping. We also used observer pattern in components and Sockets. MVC, OOP, SOLID, CRUD, RESTful, are just a few acronym principles we used.```
 
 #### 2. What went well so far?
 
-```
-    With our light amount of Scrum management due to our small team size and small time-frame, we have been consistently communicating to work around each other and prevent merge conflicts. This communication has worked well, however, delegating work to people through back-end, front-end and rover was not very efficient as this was a learning project and it prevented some of us from learning certain parts of the project we need to know.
-```
+```With our light amount of Scrum management due to our small team size and small time-frame, we have been consistently communicating to work around each other and prevent merge conflicts. This communication has worked well, however, delegating work to people through back-end, front-end and rover was not very efficient as this was a learning project and it prevented some of us from learning certain parts of the project we need to know.```
 
 #### 3. What would you do differently? Why?
 
-```
-    I would use the scrum technique of a project backlog with available tasks, in progress tasks and completed tasks even with such a small team. It would just create a better idea for everyone on what to work on and to prevent stalling or miscommunication.
-```
+```I would use the scrum technique of a project backlog with available tasks, in progress tasks and completed tasks even with such a small team. It would just create a better idea for everyone on what to work on and to prevent stalling or miscommunication.```
 
 Link to Project: https://github.com/JordanWilker/Prompetition
