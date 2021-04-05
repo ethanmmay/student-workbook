@@ -8,10 +8,10 @@
 
 #### 2. What are the different types of certificates? What are they used for?
 
-```Here```
+```EV, OV and DV certificates each use different locations to certify SSL compliance. EV is for extended, OV is for organized and DV is for domain.```
 
 #### 3. What are some benefits of using SSL certificates?
 
-```Here```
+```They validate proper minimum security, are a global standard and allow more users to visit your site.```
 
 Link to Project: https://github.com/JordanWilker/Prompetition
