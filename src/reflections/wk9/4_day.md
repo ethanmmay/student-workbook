@@ -2,11 +2,9 @@
 
 ### Culmination
 
-Placeholder
-
 #### 1. What is an SSL certificate?
 
-```Here```
+```Secure Sockets Layer certificates are applied to programs that meet the global standard for secure, encrypted connections between the applications' web browser and web server.```
 
 #### 2. What are the different types of certificates? What are they used for?
 
