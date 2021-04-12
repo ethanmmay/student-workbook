@@ -4,14 +4,12 @@
 
 #### 1. What is a List in C#?
 
-```Here```
+```A list in C# is an ordered sequence of variables that is expandable ```
 
 #### 2. What List methods seem like you might use them often? Why?
 
-```Here```
+```Add, Contains, Find, ForEach and Remove are all List methods that seem to be useful for manipulating a list because they are simple ways to apply CRUD functionality to your application.```
 
 #### 3. How would you retrieve an item from a list? What method could you use?
 
-```Here```
-
-Link to Project: https://github.com/ethanmmay/csharp-api
+```The Find method.```
